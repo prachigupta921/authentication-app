@@ -1,5 +1,5 @@
 {
-  "name": "login",
+  "name": "project_deployment",
   "version": "1.0.0",
   "description": "Log in and Log Out Page",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-  "author": "Rahul varshney",
+  "author": "Prachi Gupta",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
